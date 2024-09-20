@@ -1,0 +1,3 @@
+[submodule "pwcmp"]
+	path = analysis/scaling/pwcmp
+	url = https://github.com/mantiuk/pwcmp.git

@@ -1,0 +1,12 @@
+.DS_Store
+Output/
+share/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+*.csv
+*.npz
+*~
+*.ipynb
+applications/**/*.obj
