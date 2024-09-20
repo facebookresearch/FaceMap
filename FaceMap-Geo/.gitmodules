@@ -1,0 +1,3 @@
+[submodule "pwcmp"]
+	path = analysis/pwcmp
+	url = git@ghe.oculus-rep.com:jzs/pwcmp.git

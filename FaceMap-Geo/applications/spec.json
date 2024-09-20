@@ -1,0 +1,304 @@
+{
+    "stimuli": [
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f002066_R30.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f002376_R33.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f002844_R36.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f003304_R39.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f003750_R42.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f004308_R45.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f004856_R48.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f005464_R51.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f006094_R54.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f006750_R57.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f007368_R60.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f008140_R63.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f008782_R66.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f009346_R69.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f010202_R72.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f010822_R75.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f011660_R78.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f012200_R81.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f013252_R84.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f014102_R87.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f015150_R90.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f015940_R93.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f016996_R96.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f017716_R99.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f019076_R102.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f020174_R105.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f021072_R108.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f022362_R111.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f023462_R114.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        },
+        {
+            "dataset": "STC",
+            "directory": "adamesh",
+            "basemesh": " head",
+            "reference": " head_ref.obj",
+            "distortionA": "spec_f024896_R117.obj",
+            "distortionB": " head_ref.obj",
+            "batch": 100,
+            "index": 0
+        }
+    ]
+}
