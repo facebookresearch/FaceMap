@@ -2,6 +2,13 @@
 
 😀 This is the official implementation and data release for [FaceMap](paper/FaceMap__Distortion_Driven_Perceptual_Facial_Saliency_Maps.pdf), to present in Siggraph Asia 2024
 
+
+* ⏩ Fast Forward: https://youtu.be/0WopIgwuR4o
+* 📺 Paper Video: https://youtu.be/019GLJOxvTE
+* 📰 Paper Manuscript: [pdf](paper/FaceMap__Distortion_Driven_Perceptual_Facial_Saliency_Maps.pdf)
+* 👾 Presentation: stay tuned for SIGGRAPH Asia 2024 conference.
+
+
 😊 __Contributors__:
 Zhongshi Jiang, Kishore Venkateshan, Giljoo Nam, Meixu Chen, Romain Bachy, Jean-Charles Bazin, Alexandre Chapiro. (*Reality Labs, Meta*)
 
@@ -21,7 +28,7 @@ results provide relevant insights for algorithm design, and we demonstrate
 our data’s value in model compression applications.
 
 # Updates
-💡 10/26/2024: Initial Commit
+💡 11/01/2024: Initial Commit and Public
 
 # Repo
 As part of our open source commitment, we release the data, analysis script, and script for distortion generation.
