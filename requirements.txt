@@ -1,5 +1,5 @@
 fire==0.7.0
-hpack==4.0.0
+hpack==4.2.0
 libigl==2.4.1
 matplotlib==3.9.2
 munkres==1.1.4
